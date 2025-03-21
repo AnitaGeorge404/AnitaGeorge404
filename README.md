@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Anita George 👋
 
-<!--
-**AnitaGeorge404/AnitaGeorge404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Fun Fact:
+I'm a passionate frontend developer and UI/UX enthusiast studying at the Indian Institute of Information Technology, Kottayam! When I'm not coding, you can find me sketching design wireframes or exploring new web technologies!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Technologies:
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+### 💡 What I love to do:
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=I+love+to+%3Ccode%2F%3E;I+love+to+%3Cdesign%2F%3E;I+love+to+%3Cdevelop%2F%3E;I+love+to+%3Ccreate%2F%3E;I+love+to+innovate%3B;I+love+to+collaborate%3B;I+love+to+solve+problems%3B;Frontend+Developer+at+heart!" alt="Typing SVG" />
+</p>
+
+---
+
+### 📈 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anitageorge&show_icons=true&theme=dark&card_width=500&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anitageorge&layout=compact&theme=dark&card_width=500&hide_border=true)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=anitageorge&theme=dark&hide_border=true)
+
+---
+
+### 🎓 Education & Experience
+
+**Indian Institute of Information Technology, Kottayam**
+- Pursuing B.Tech in Computer Science Engineering
+- Focusing on Frontend Development and UI/UX Design
+- Active participant in various coding competitions and hackathons
+- Member of the college's technical club, contributing to web development projects
+
+---
+
+### 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anita-george)  
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.anitageorge.netlify.app)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anitageorge)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anita_george)
+
+---
