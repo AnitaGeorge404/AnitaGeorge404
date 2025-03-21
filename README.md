@@ -1,5 +1,7 @@
 # Hi, I'm Anita George 👋
 
+I’m a passionate Computer Science student at IIIT Kottayam with a strong foundation in frontend development and UI/UX. I love crafting seamless, user-friendly web experiences that blend creativity with technical expertise. Currently, I’m exploring the intersection of design and development—diving into modern frameworks, user psychology, and emerging technologies. I believe great design isn’t just about aesthetics but about functionality, ensuring every project bridges user needs with innovation.
+
 ### ✨ Fun Fact:
 I'm a passionate frontend developer and UI/UX enthusiast studying at the Indian Institute of Information Technology, Kottayam! When I'm not coding, you can find me sketching design wireframes or exploring new web technologies!
 
