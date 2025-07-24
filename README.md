@@ -22,9 +22,9 @@ I'm a passionate frontend developer and UI/UX enthusiast studying at the Indian 
 ---
 
 ### 📈 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anitageorge404&show_icons=true&theme=dark&card_width=500&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anitageorge404&layout=compact&theme=dark&card_width=500&hide_border=true)
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=anitageorge404&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnitaGeorge404&show_icons=true&theme=dark&card_width=500&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaGeorge404&layout=compact&theme=dark&card_width=500&hide_border=true)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=AnitaGeorge404&theme=dark&hide_border=true)
 
 ---
 
