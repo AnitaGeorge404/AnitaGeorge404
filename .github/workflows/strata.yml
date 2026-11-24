@@ -1,0 +1,16 @@
+name: Strata
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # every night
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  strata:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: AnitaGeorge404/strata@v1
