@@ -1,0 +1,16 @@
+name: Constellate
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # every night
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  constellate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: AnitaGeorge404/constellate@v1

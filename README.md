@@ -32,6 +32,17 @@ I'm a passionate frontend developer and UI/UX enthusiast studying at the Indian 
 
 ---
 
+### 🌌 My Sky:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="constellate/constellate-dark.svg">
+  <img alt="Constellate: my repositories as a night sky" src="constellate/constellate-light.svg" width="100%">
+</picture>
+
+<sub>Every repo is a star, and every language a constellation. The moon follows my streak. Charted nightly by <a href="https://github.com/AnitaGeorge404/constellate">Constellate</a>.</sub>
+
+---
+
 ### 📈 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnitaGeorge404&show_icons=true&theme=dark&card_width=500&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaGeorge404&layout=compact&theme=dark&card_width=500&hide_border=true)
