@@ -21,6 +21,13 @@ I'm a passionate frontend developer and UI/UX enthusiast studying at the Indian 
 
 ---
 
+### 🎨 Paint my wall:
+
+<!-- canvas:start -->
+<!-- canvas:end -->
+
+---
+
 ### 🪨 My Strata:
 
 <picture>
