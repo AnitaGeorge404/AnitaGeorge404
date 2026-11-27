@@ -1,0 +1,39 @@
+name: 🎨 Paint a pixel
+description: Add one pixel to the wall on AnitaGeorge404's profile.
+title: "🎨 Paint"
+labels: ["canvas"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ![Palette](https://raw.githubusercontent.com/AnitaGeorge404/AnitaGeorge404/main/canvas/palette.svg)
+
+        Pick a colour and press **Submit**. Your pixel shows up on the wall in about 30 seconds, and this issue closes itself.
+  - type: input
+    id: cell
+    attributes:
+      label: Square
+      description: Column A–T and row 1–10. Already filled in from the square you clicked.
+      placeholder: C7
+    validations:
+      required: true
+  - type: dropdown
+    id: colour
+    attributes:
+      label: Colour
+      options:
+        - Coral
+        - Tangerine
+        - Sun
+        - Lime
+        - Mint
+        - Sky
+        - Ocean
+        - Violet
+        - Bubblegum
+        - Cocoa
+        - Ink
+        - Snow
+        - Erase
+    validations:
+      required: true
